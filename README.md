@@ -15,8 +15,10 @@
 
 2. 项目技术结构图
 
-![ProjectMicroservices1](image/ProjectMicroservices1.png)
+![ProjectTechStack](image/ProjectTechStack.png)
 
 3. 项目微服务划分图
+
+![ProjectMicroservices1](image/ProjectMicroservices1.png)
 
 ![ProjectMicroservices2](image/ProjectMicroservices2.png)
